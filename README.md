@@ -2,7 +2,7 @@ Here's a README template for your GitHub repository that’s friendly and inform
 
 ---
 
-# Data Analysis and Forecasting Project
+# Forecasting with Artificial Intelligence
 
 Welcome to this data analysis and forecasting repository! This project uses Python in Jupyter Notebook to go through essential steps for a complete data analysis pipeline, from data preprocessing to model creation, forecasting, and dashboard preparation. Each notebook is designed to be clear and actionable, allowing easy exploration of each analysis stage.
 
